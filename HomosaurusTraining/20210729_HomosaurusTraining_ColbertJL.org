@@ -1,0 +1,217 @@
+# Copyright (C) 2021 Jay L. Colbert
+
+#+options: toc:1 num:nil reveal_width:1400 reveal_height:1000
+#+reveal_theme: serif
+#+reveal_default_slide_background: #ffffff
+
+# Set up the title slide.
+#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>University of New Hampshire</p><p>View online: LINK TO COME.</p>
+
+# Configure individual pieces of information.
+#+title: Cataloging with the Homosaurus
+#+subtitle: Who, What, When, Why, & How
+#+author: Jay L. Colbert
+#+reveal_academic_title: MSLIS
+
+* Who
+#+reveal: split
+
+#+attr_reveal: :frag roll-in
+Jay L. Colbert (he/him)
+
+#+attr_reveal: :frag roll-in
+Metadata & Discovery Strategy Librarian, University of New Hampshire
+
+#+attr_reveal: :frag roll-in
+Homosaurus Editorial Board since June 2020
+
+#+reveal: split
+I am also white, queer, and trans.
+
+* What
+#+reveal: split
+#+begin_quote
+The Homosaurus is an international linked data vocabulary of LGBTQ terms that supports improved access to LGBTQ resources within cultural institutions.
+Designed to serve as a companion to broad subject term vocabularies, the Homosaurus is a robust and cutting-edge vocabulary of LGBTQ-specific terminology that enhances the discoverability of LGBTQ resources.
+#+end_quote
+** Timeline
+#+attr_reveal: :frag (roll-in)
++ 1997, version 0: thesaurus for IHLIA LGBT Heritage collections
++ 2013, version 1: Jack van der Wel & Ellen Greenblatt made it more inclusive with a hierarchical structure
++ 2015: K.J. Rawson of the Digital Transgender Archive worked with van der Wel to transform version 1 into an online linked data vocabulary
++ 2016: Editorial Board established, and scope narrowed to LGBTQ-specific terms
++ 2019, version 2: Where we are now!
+* When
+** Sex vs Gender vs Orientation
+#+reveal: split
+/Sex/, as in /Sex (Body)/ and /Sex assigned at birth/, refers to the biological sex of a person.
+
+#+attr_reveal: :frag roll-in
+/Gender/, as in /Gender identity/, refers to the experience and internal feeling of a person.
+
+#+attr_reveal: :frag roll-in
+/Orientation/, as in /Sexual orientation/ or /Romantic orientation/, refers to the "direction" of an individual's attraction towards other individuals.
+
+#+reveal: split
+Sex, gender, and orientation are often discussed as separate facets of a person's identity and experience.
+** LGBTQ vs Queer
+:PROPERTIES:
+:ID:       88f601d2-5518-4065-a182-d8a23fe25660
+:END:
+#+reveal: split
+3 Formats:
+#+attr_reveal: :frag (roll-in)
+1. Term (LGBTQ)
+2. LGBTQ term
+3. Queer term
+
+#+reveal: split
+Use /Term (LGBTQ)/ when you're using LGBTQ as an umbrella term.
+
+#+reveal: split
+Use /LGBTQ term/ as a narrower term, or if /Term (LGBTQ)/ is not available.
+
+(There are inconsistencies!)
+
+#+reveal: split
+Use /Queer term/ to refer the specific identity /queer/.
+
+#+attr_reveal: :frag roll-inc
+Sometimes, there won't be specific narrower identity terms;
+often, /LGBTQ term/ will be the narrowest.
+
+#+reveal: split
+[[attachment:_20210729_082223Buddhists_LGBTQ.png]]
+
+
+** Slang
+#+reveal: split
+William Shakespeare walks into a gay bar.
+
+#+attr_reveal: :frag roll-in
+/Exit, pursued by a bear./
+
+#+reveal: split
+Some queer slang uses common words.
+For example, /Bears/ or other animals refer to specific body types, sexual identities, or gender roles in gay culture.
+
+#+attr_reveal: :frag roll-in
+It is still important to use these terms when cataloging.
+They are important aspects of queer culture and history.
+
+#+attr_reveal: :frag roll-in
+And the version of the term in other vocabularies might be structured differently or excluded entirely.
+
+#+attr_reveal: :frag roll-in
+Homosaurus has /Bears/ and /Otters/, but LoC has /Bears (Gay culture)/ with /Otters (Gay culture)/ as a *variant term*.
+
+** Outdated or Derogatory Terms
+:PROPERTIES:
+:ID:       2e553aa8-fc6e-4da2-a45d-502d6698f7a3
+:END:
+#+reveal: split
+/LGBTQ historical terms/:
+
+#+begin_quote
+Historical terms for LGBTQ people, identities, and practices that are now considered outdated and/or offensive
+#+end_quote
+
+#+reveal: split
+[[attachment:_20210729_082244LGBTQ_historical-terms-01.png]]
+
+#+reveal: split
+[[attachment:_20210729_082300LGBTQ_historical-terms-02.png]]
+
+#+reveal: split
+/Slurs/:
+
+#+begin_quote
+Insulting or discriminating remarks, innuendos, or names intended to demoralize a person, which are usually based on that person's belonging to a particular social group.
+Typically, for a term to be considered a slur, it must be derogatory towards a particular person or group, it must be used to subordinate them within some structure of power relations, and the derogated person or group must be defined by an intrinsic property (such as race, sexual orientation, gender identity, etc.).
+This category includes terms considered slurs at any point in their usage.
+
+*Therefore, some of these terms may no longer be considered necessarily derogatory, may be in common usage, or may be selectively reclaimed by certain groups.*
+#+end_quote
+
+#+reveal: split
+[[attachment:_20210729_082314Slurs.png]]
+
+#+reveal: split
+It can be appropriate to use historical terms for materials (which themselves may or may not be historical) that discuss those identities /using those terms/.
+
+This is particularly true in archival contexts, or when an item describes itself with those terms.
+
+#+reveal: split
+It is /rarely/ appropriate to use slurs.
+
+#+attr_reveal: :frag appear
+However, some historical terms are also slurs, and some terms /had/ been slurs historically but are largely reclaimed.
+
+#+reveal: split
+/Dykes/ is a term for lesbians and other queer women that can be used in a derogatory way, but it is also often used among queer women, particularly as a self-identifier.
+
+Therefore, it would be appropriate to assign /Dykes/ to a work such as /Dykes to Watch Out For/.
+
+#+reveal: split
+When in doubt, /especially for terms referring to Indigenous peoples or culturally-specific identities/, do not use a term classified as a slur.
+
+#+attr_reveal: :frag roll-in
+If a historical term or slur that would be appropriate refers to Indigenous peoples or culturally-specific identities, consider using other subject vocabularies if they exist.
+
+#+attr_reveal: :frag roll-in
+Speak with members of your local tribe(s) for how they wish to be described (if at all).
+
+* Why
+#+reveal: split
+#+attr_reveal: :frag (roll-in)
++ How are patrons searching for materials?
++ /Who is the patron in your head?/
++ Who is left out?
+
+#+reveal: split
+Homosaurus terms are  meant to complement and supplement existing vocabularies, such as LCSH.
+Some of its terms are based on current popular intra-community language, while others are from other semantic realms (such as medical language).
+
+* How
+** What to do when there aren't scope notes
+#+reveal: split
+Many terms in the Homosaurus currently /do not/ have scope notes.
+
+#+attr_reveal: :frag roll-in
+We know.
+
+#+attr_reveal: :frag roll-in
+We are changing that.
+
+#+reveal: split
+Resources:
+
+#+attr_reveal: :frag (roll-in)
++ Nonbinary Wiki: https://nonbinary.wiki/wiki/Main_Page
++ Asexuality Visibility Network Wiki: http://wiki.asexuality.org/Main_Page
++ LGBT Wikia: https://lgbta.wikia.org/wiki/LGBTA_Wiki
++ Transgender Language Primer: https://www.translanguageprimer.org/primer
++ A BDSM/Kink Glossary (note: this site may contain material that is considered "not safe for work"): https://jamirodman.com/bdsm-kink-dictionary-terminology-vocabulary/
+
+** Subdivisions
+#+reveal: split
+*Homosaurus does not have subdivisions.*
+
+#+reveal: split
+Instead:
+
+#+attr_reveal: :frag (roll-in)
++ Homosaurus term alongside LCSH term that supports form subdivision
+
+      650 _7 $a Lesbian relationships. $2 homoit
+
+      650 _0 $a Lesbian couples. $Fiction.
++ Homosaurus term as 655
+
+      655 _7 $a Lesbian fiction. $2 homoit
+
+** Suggest a term!
+https://homosaurus.org/contact
+* Questions?
+* Resources
+Zotero Library: https://www.zotero.org/jay.colbert/collections/7MMSXINA
