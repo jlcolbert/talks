@@ -3,6 +3,7 @@
 #+options: toc:1 num:nil reveal_width:1400 reveal_height:1000
 #+reveal_theme: serif
 #+reveal_default_slide_background: #ffffff
+#+options: reveal_single_file:t
 
 # Set up the title slide.
 #+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>University of New Hampshire</p><p>View online: LINK TO COME.</p>
@@ -55,9 +56,6 @@ Designed to serve as a companion to broad subject term vocabularies, the Homosau
 #+reveal: split
 Sex, gender, and orientation are often discussed as separate facets of a person's identity and experience.
 ** LGBTQ vs Queer
-:PROPERTIES:
-:ID:       88f601d2-5518-4065-a182-d8a23fe25660
-:END:
 #+reveal: split
 3 Formats:
 #+attr_reveal: :frag (roll-in)
@@ -81,8 +79,7 @@ Sometimes, there won't be specific narrower identity terms;
 often, /LGBTQ term/ will be the narrowest.
 
 #+reveal: split
-[[attachment:_20210729_082223Buddhists_LGBTQ.png]]
-
+[[https://github.com/jlcolbert/talks/blob/main/HomosaurusTraining/images/Buddhists_LGBTQ.png?raw=true]]
 
 ** Slang
 #+reveal: split
@@ -106,9 +103,6 @@ And the version of the term in other vocabularies might be structured differentl
 Homosaurus has /Bears/ and /Otters/, but LoC has /Bears (Gay culture)/ with /Otters (Gay culture)/ as a *variant term*.
 
 ** Outdated or Derogatory Terms
-:PROPERTIES:
-:ID:       2e553aa8-fc6e-4da2-a45d-502d6698f7a3
-:END:
 #+reveal: split
 /LGBTQ historical terms/:
 
@@ -117,10 +111,10 @@ Historical terms for LGBTQ people, identities, and practices that are now consid
 #+end_quote
 
 #+reveal: split
-[[attachment:_20210729_082244LGBTQ_historical-terms-01.png]]
+[[https://github.com/jlcolbert/talks/blob/main/HomosaurusTraining/images/LGBTQ_historical-terms-01.png?raw=true]]
 
 #+reveal: split
-[[attachment:_20210729_082300LGBTQ_historical-terms-02.png]]
+[[https://github.com/jlcolbert/talks/blob/main/HomosaurusTraining/images/LGBTQ_historical-terms-02.png?raw=true]]
 
 #+reveal: split
 /Slurs/:
@@ -134,7 +128,7 @@ This category includes terms considered slurs at any point in their usage.
 #+end_quote
 
 #+reveal: split
-[[attachment:_20210729_082314Slurs.png]]
+[[https://github.com/jlcolbert/talks/blob/main/HomosaurusTraining/images/Slurs.png?raw=true]]
 
 #+reveal: split
 It can be appropriate to use historical terms for materials (which themselves may or may not be historical) that discuss those identities /using those terms/.
