@@ -73,7 +73,7 @@ Use /LGBTQ term/ as a narrower term, or if /Term (LGBTQ)/ is not available.
 (There are inconsistencies!)
 
 #+reveal: split
-Use /Queer term/ to refer the specific identity /queer/.
+Use /Queer term/ to refer to the specific identity /queer/.
 
 #+attr_reveal: :frag roll-inc
 Sometimes, there won't be specific narrower identity terms;
