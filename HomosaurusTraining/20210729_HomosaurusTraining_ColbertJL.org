@@ -211,4 +211,4 @@ https://homosaurus.org/contact
 jay.colbert@unh.edu
 
 * Resources
-Zotero Library: https://www.zotero.org/jay.colbert/collections/7MMSXINA
+Zotero Library: [[https://www.zotero.org/jay.colbert/collections/7MMSXINA]]
