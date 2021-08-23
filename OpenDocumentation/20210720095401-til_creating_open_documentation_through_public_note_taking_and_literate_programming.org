@@ -1,0 +1,161 @@
+:PROPERTIES:
+:ID:       7ca70892-46dd-4e29-a296-70ba22b0671f
+:END:
+#+title: (DRAFT) TIL:
+#+subtitle: Creating Open Documentation Through Public Note-taking and Literate Programming
+#+author: Jay L. Colbert
+#+reveal_academic_title: MSLIS
+#+options: num:nil toc:1
+#+options: reveal_width:1400 reveal_height:1000
+#+options: reveal_single_file:t
+#+reveal_theme: simple
+
+# Set up the title slide.
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>View online: URL TO COME</p>
+
+* Who am I?
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jay_Colbert_Professional_Photo.jpg/321px-Jay_Colbert_Professional_Photo.jpg]]
+
+#+reveal: split
+#+attr_reveal: :frag (appear)
++ Jay L. Colbert
++ he/him pronouns
++ Metadata & Discovery Strategy Librarian
++ University of New Hampshire
+
+#+reveal: split
+#+attr_reveal: :frag appear
+Bachelor's degree in...
+
+#+attr_reveal: :frag appear
+Literature
+
+* Learning Primo VE
+#+reveal: split
+In September 2019, I was hired as the University of New Hampshire's Metadata & Discovery Strategy Librarian.
+
+One of my primary position responsibilities is managing our Primo VE Discovery Layer, which UNH had implemented in July 2019.
+
+** Challenges
+#+attr_reveal: :frag (appear)
++ New to software
++ No formal tech background beyond metadata
++ Primo? Primo NUI? Primo VE?
++ Documentation isn't always clear
++ A lot of documentation and third-party information is years out of date!
+
+#+reveal: split
+The instructions for the Primo Development Environment /do/ contain some information for Primo VE.
+
+#+attr_reveal: :frag appear
+But most of the third-party packages do not.
+
+#+reveal: split
+And many of the third-party packages also use the ~--browserify~ option...
+
+#+attr_reveal: :frag appear
+And Ex Libris does not provide official documentation for using it.
+
+** Solutions
+#+attr_reveal: :frag (appear)
++ Explore GitHub repositories
+  - Commits
+  - Issues
+  - Pull requests
++ Watch conference presentations
++ "Mess around and find out"
+
+* The Importance of Documentation
+#+attr_reveal: :frag (appear)
+1. A single source of truth saves time and energy
+2. Documentation is essential to quality and process control
+3. Documentation cuts down duplicative work
+4. Documentation makes hiring and onboarding easier
+5. Documentation increases collective knowledge
+
+#+reveal: split
+#+attr_reveal: :frag appear
+With documentation, we are able to share our knowledge with others internally and externally.
+
+#+attr_reveal: :frag appear
+Without documentation, knowledge is lost over time.
+Consistency is lost.
+Quality control is lost.
+
+** System-based
+"here's what the /system does/"
+** Task-Based
+"here's how to do /your/ job /using the system/"
+* Learning in Public
+#+begin_quote
+“Learning in Public” is scary for many reasons – people can find and cling to outdated information and users are exposing their knowledge during a vulnerable time in the project (i.e. when they don’t yet have all the answers).
+
+However, during this part of the process is when learning can be most valuable.
+
+— via How Do Rocket Scientists Learn? (aka, knowledge management lessons learned at Goddard, NASA)
+#+end_quote
+
+#+reveal: split
+#+attr_reveal: :frag (appear)
++ Track learning process
++ Public log
++ Continual feedback
++ Tap into network of community knowledge
+
+* Methods
+** Beginner: Git Repository
+#+reveal: split
+Example: [[https://github.com/jbranchaud/til]]
+
+** Intermediate: Digital Garden
+#+reveal: split
+#+begin_quote
+The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
+
+We gather and work together in community gardens to share the labor as well as the rewards of a collective effort.
+
+It's a comparison that you can take very far. From "planting seeds" and "pulling weeds" to tending mutiple gardens that each serve an individual need or desired outcome.
+
+Like with real gardens, our digital gardens are a constant ebb and flow towards entropy.
+
+— My blog is a digital garden, not a blog, by Joel Hooks
+#+end_quote
+
+*** Tools
+# Demonstration
+All tools are free and open source.
+I have purposefully omitted tools which are not free (like Roam Research) and/or open source (like Obsidian)
+
+#+attr_reveal: :frag (appear)
++ Dendron
++ Foam
++ Git Repository
++ Logseq
++ Neuron
++ Org Roam
++ TiddlyWiki
+
+** Advanced: Literate Programming
+# Demonstration
+
+*** Literate programming
+#+attr_reveal: :frag (appear)
++ is a style and paradigm of programming and documentation
++ emphasizes natural language and human logic
++ embeds code snippets within documentation
++ generates software from documentation instead of the converse
++ encourages reproducible research and open access
+
+*** Tools
+#+attr_reveal: :frag (appear)
++ NoWEB
++ Literate
++ pyWeb
++ Emacs org-mode*
++ Codebraid
++ Jupyter Notebook
+
+#+reveal: split
+You can combine these methods and tools:
+
+host your digital garden(s) (using whatever tool) in a Git repository (as well as a website if desired) and include any literate programming documents within.
