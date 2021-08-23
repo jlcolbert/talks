@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7ca70892-46dd-4e29-a296-70ba22b0671f
 :END:
-#+title: (DRAFT) TIL:
+#+title: TIL:
 #+subtitle: Creating Open Documentation Through Public Note-taking and Literate Programming
 #+author: Jay L. Colbert
 #+reveal_academic_title: MSLIS
@@ -11,7 +11,8 @@
 #+reveal_theme: simple
 
 # Set up the title slide.
-#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>View online: URL TO COME</p>
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>View online: <a href="%u">%u</a></p>
+#+REVEAL_TALK_URL: https://github.com/jlcolbert/talks/tree/main/OpenDocumentation
 
 * Who am I?
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jay_Colbert_Professional_Photo.jpg/321px-Jay_Colbert_Professional_Photo.jpg]]
@@ -126,6 +127,8 @@ Like with real gardens, our digital gardens are a constant ebb and flow towards 
 All tools are free and open source.
 I have purposefully omitted tools which are not free (like Roam Research) and/or open source (like Obsidian)
 
+Resources: https://github.com/MaggieAppleton/digital-gardeners
+
 #+attr_reveal: :frag (appear)
 + Dendron
 + Foam
@@ -147,6 +150,9 @@ I have purposefully omitted tools which are not free (like Roam Research) and/or
 + encourages reproducible research and open access
 
 *** Tools
+
+Resource: https://www.offerzen.com/blog/literate-programming-empower-your-writing-with-emacs-org-mode
+
 #+attr_reveal: :frag (appear)
 + NoWEB
 + Literate
@@ -159,3 +165,10 @@ I have purposefully omitted tools which are not free (like Roam Research) and/or
 You can combine these methods and tools:
 
 host your digital garden(s) (using whatever tool) in a Git repository (as well as a website if desired) and include any literate programming documents within.
+
+* Questions?
+email: jay.colbert@unh.edu
+
+GitHub: jlcolbert
+
+twitter: _WildeAtHeart
