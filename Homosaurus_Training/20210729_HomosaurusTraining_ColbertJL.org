@@ -3,6 +3,7 @@
 #+options: toc:1 num:nil reveal_width:1400 reveal_height:1000
 #+reveal_theme: serif
 #+reveal_default_slide_background: #ffffff
+#+options: reveal_single_file:t
 
 # Set up the title slide.
 #+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>University of New Hampshire</p><p>View online: <a href="%u">%u</a></p>
@@ -79,7 +80,7 @@ Sometimes, there won't be specific narrower identity terms;
 often, /LGBTQ term/ will be the narrowest.
 
 #+reveal: split
-https://raw.githubusercontent.com/jlcolbert/talks/main/Homosaurus_Training/images/Buddhists_LGBTQ.png
+[[file:images/Buddhists_LGBTQ.png]]
 
 ** Slang
 #+reveal: split
@@ -111,10 +112,10 @@ Historical terms for LGBTQ people, identities, and practices that are now consid
 #+end_quote
 
 #+reveal: split
-https://raw.githubusercontent.com/jlcolbert/talks/main/Homosaurus_Training/images/LGBTQ_historical-terms-01.png
+[[file:images/LGBTQ_historical-terms-01.png]]
 
 #+reveal: split
-https://raw.githubusercontent.com/jlcolbert/talks/main/Homosaurus_Training/images/LGBTQ_historical-terms-02.png
+[[file:images/LGBTQ_historical-terms-02.png]]
 
 #+reveal: split
 /Slurs/:
@@ -128,7 +129,7 @@ This category includes terms considered slurs at any point in their usage.
 #+end_quote
 
 #+reveal: split
-https://raw.githubusercontent.com/jlcolbert/talks/main/Homosaurus_Training/images/Slurs.png
+[[file:images/Slurs.png]]
 
 #+reveal: split
 It can be appropriate to use historical terms for materials (which themselves may or may not be historical) that discuss those identities /using those terms/.
@@ -181,11 +182,11 @@ We are changing that.
 Resources:
 
 #+attr_reveal: :frag (roll-in)
-+ Nonbinary Wiki: https://nonbinary.wiki/wiki/Main_Page
-+ Asexuality Visibility Network Wiki: http://wiki.asexuality.org/Main_Page
-+ LGBT Wikia: https://lgbta.wikia.org/wiki/LGBTA_Wiki
-+ Transgender Language Primer: https://www.translanguageprimer.org/primer
-+ A BDSM/Kink Glossary (note: this site may contain material that is considered "not safe for work"): https://jamirodman.com/bdsm-kink-dictionary-terminology-vocabulary/
++ Nonbinary Wiki: =https://nonbinary.wiki/wiki/Main_Page=
++ Asexuality Visibility Network Wiki: =http://wiki.asexuality.org/Main_Page=
++ LGBT Wikia: =https://lgbta.wikia.org/wiki/LGBTA_Wiki=
++ Transgender Language Primer: =https://www.translanguageprimer.org/primer=
++ A BDSM/Kink Glossary (note: this site may contain material that is considered "not safe for work"): =https://jamirodman.com/bdsm-kink-dictionary-terminology-vocabulary/=
 
 ** Subdivisions
 #+reveal: split
@@ -205,9 +206,9 @@ Instead:
       655 _7 $a Lesbian fiction. $2 homoit
 
 ** Suggest a term!
-https://homosaurus.org/contact
+=https://homosaurus.org/contact=
 * Questions?
 jay.colbert@unh.edu
 
 * Resources
-Zotero Library: [[https://www.zotero.org/jay.colbert/collections/7MMSXINA]]
+Zotero Library: =https://www.zotero.org/jay.colbert/collections/7MMSXINA=

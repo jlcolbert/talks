@@ -8,6 +8,7 @@
 #+options: num:nil toc:1
 #+options: reveal_width:1400 reveal_height:1000
 #+reveal_theme: simple
+#+options: reveal_single_file:t
 
 # Set up the title slide.
 #+REVEAL_TITLE_SLIDE: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>View online: <a href="%u">%u</a></p>
@@ -102,7 +103,7 @@ However, during this part of the process is when learning can be most valuable.
 
 * Methods
 ** Beginner: Git Repository
-Example: https://github.com/jbranchaud/til
+Example: =https://github.com/jbranchaud/til=
 
 ** Intermediate: Digital Garden
 #+reveal: split
@@ -123,7 +124,7 @@ Like with real gardens, our digital gardens are a constant ebb and flow towards 
 All tools are free and open source.
 I have purposefully omitted tools which are not free (like Roam Research) and/or open source (like Obsidian)
 
-https://github.com/MaggieAppleton/digital-gardeners
+=https://github.com/MaggieAppleton/digital-gardeners=
 
 #+attr_reveal: :frag (appear)
 + Dendron
