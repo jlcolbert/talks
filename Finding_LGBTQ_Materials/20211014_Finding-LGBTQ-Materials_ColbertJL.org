@@ -4,7 +4,7 @@
 #+options:  num:nil reveal_width:1400 reveal_height:1000
 #+reveal_theme: simple
 #+reveal_title_slide: <h1>%t</h1><h3>%a</h3>
-#+reveal_single_file: t
+#+options: reveal_single_file:t
 
 
 * Important Info
@@ -168,19 +168,6 @@ Include queer terminology in:
 + titles
 + abstracts
 + descriptions
-
-* Resources
-
-+ [[https://www.digitaltransgenderarchive.net][Digital Transgender Archive]]
-+ [[https://gsso.research.cchmc.org/#!/][Gender, Sex, and Sexual Orientation (GSSO) Ontology]]
-+ [[https://www.glbthistory.org/digital-collections][GLBT Historical Society Digital Collections]]
-+ [[https://histsex.org][HistSex]]
-+ [[https://homosaurus.org][Homosaurus]]
-+ [[https://www.loc.gov/collections/lgbtq-studies-web-archive/][Library of Congress LGBTQ+ Studies Web Archive]]
-+ [[https://queerdigital.com][Queer Digital History Project]]
-+ [[http://www.netanelganin.com/projects/QueerLCSH/QueerLCSH.html][Queer LCSH]]
-+ [[https://archive.qzap.org][Queer Zine Archive Project (QZAP)]]
-+ Your subject librarians!
 
 * Questions?
 
