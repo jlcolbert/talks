@@ -7,7 +7,6 @@
 #+reveal_academic_title: MSLIS
 #+options: num:nil toc:1
 #+options: reveal_width:1400 reveal_height:1000
-#+options: reveal_single_file:t
 #+reveal_theme: simple
 
 # Set up the title slide.
@@ -15,8 +14,6 @@
 #+REVEAL_TALK_URL: https://github.com/jlcolbert/talks/tree/main/OpenDocumentation
 
 * Who am I?
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jay_Colbert_Professional_Photo.jpg/321px-Jay_Colbert_Professional_Photo.jpg]]
-
 #+reveal: split
 #+attr_reveal: :frag (appear)
 + Jay L. Colbert
@@ -105,8 +102,7 @@ However, during this part of the process is when learning can be most valuable.
 
 * Methods
 ** Beginner: Git Repository
-#+reveal: split
-Example: [[https://github.com/jbranchaud/til]]
+Example: https://github.com/jbranchaud/til
 
 ** Intermediate: Digital Garden
 #+reveal: split
@@ -126,8 +122,6 @@ Like with real gardens, our digital gardens are a constant ebb and flow towards 
 # Demonstration
 All tools are free and open source.
 I have purposefully omitted tools which are not free (like Roam Research) and/or open source (like Obsidian)
-
-Resources: https://github.com/MaggieAppleton/digital-gardeners
 
 #+attr_reveal: :frag (appear)
 + Dendron
@@ -150,9 +144,6 @@ Resources: https://github.com/MaggieAppleton/digital-gardeners
 + encourages reproducible research and open access
 
 *** Tools
-
-Resource: https://www.offerzen.com/blog/literate-programming-empower-your-writing-with-emacs-org-mode
-
 #+attr_reveal: :frag (appear)
 + NoWEB
 + Literate

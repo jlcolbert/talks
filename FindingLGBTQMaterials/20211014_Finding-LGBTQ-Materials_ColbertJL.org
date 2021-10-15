@@ -1,0 +1,187 @@
+#+title:    Finding LGBTQ+ Materials at the UNH Library and Beyond
+#+author:   Jay L. Colbert
+#+email:    jay.colbert@unh.edu
+#+options:  num:nil reveal_width:1400 reveal_height:1000
+#+reveal_theme: simple
+#+reveal_title_slide: <h1>%t</h1><h3>%a</h3>
+#+reveal_single_file: t
+
+
+* Important Info
+
+#+attr_reveal: :frag t
+Some of the language I use today may be considered out of date or offensive.
+
+#+attr_reveal: :frag t
+However, it is important to know their historical importance and/or how they are still used today by libraries.
+
+* Who am I?
+
+#+attr_reveal: :frag t
+Jay L. Colbert
+
+#+attr_reveal: :frag t
+he/him pronouns
+
+#+attr_reveal: :frag t
+Homosaurus Editorial Board
+
+#+attr_reveal: :frag t
+Metadata & Discovery Strategy Librarian
+
+** What does that mean?
+
+#+attr_reveal: :frag t
+Metadata is "data about data".
+
+#+attr_reveal: :frag t
+A more helpful definition might be "the sum total of what one can say at a given moment about any information object".
+
+#+reveal: split
+You encounter metadata all the time:
+
+#+attr_reveal: :frag (appear)
++ file names
++ the info on your license or ID
++ the titles of YouTube videos
++ and more!
+
+** So why are you telling me about metadata?
+
+#+attr_reveal: :frag t
+You also encounter metadata any time you search for something online or in the library.
+
+#+attr_reveal: :frag t
+The library catalog, Amazon, and Google take your search terms and run them against a vast index of metadata.
+Then, they show you the items in their catalog that match your keywords.
+
+#+reveal: split
+Knowing even a little bit about this process can help you when searching for any information online.
+
+* Why can it be so hard to find LGBTQ materials?
+
+#+attr_reveal: :frag t
+Lavender linguistics:
+
+#+attr_reveal: :frag (appear)
++ LGBTQ slang
++ Polari
++ Historical changes
++ Culturally-specific
+
+#+reveal: split
+Much of this terminology is insular, meaning it is by various LGBTQ communities, for those communities, as a way to communicate safely without cisgender and/or heterosexual people understanding them.
+
+#+attr_reveal: :frag t
+This is crucial in times and places when queerness is criminalized or stigmatized.
+
+** Use in Libraries
+
+#+attr_reveal: :frag t
+Unsurprisingly, this language is not always the language used by libraries to describe materials.
+
+#+attr_reveal: :frag t
+Most libraries in the United States assign Library of Congress Subject Headings to materials, but there are other vocabularies for different contexts.
+
+#+reveal: split
+/To this day/, there is no Library of Congress Subject Heading for a queer identity or LGBTQ community.
+
+#+attr_reveal: :frag t
+Instead, we get /Sexual minorities/ and /Gender minorities/.
+
+#+attr_reveal: :frag t
+This is the tip of the iceberg.
+
+#+reveal: split
+Remember that index of metadata?
+
+#+attr_reveal: :frag t
+If a record doesn't have your search terms, /even if it's talking about what you're searching for/, it won't show up in your search results.
+
+* Search Strategies
+
+** UNH Library
+
+#+attr_reveal: :frag t
+Library Search Box and databases
+
+#+attr_reveal: :frag t
+How can you search?
+
+#+attr_reveal: :frag (appear)
++ keywords
++ subject headings
++ author
++ and more
+
+#+reveal: split
+When you search, look at /how/ materials are described.
+
+#+attr_reveal: :frag t
+If you find a book or article that is /exactly/ what you need, use the language used to describe it when you search!
+
+#+attr_reveal: :frag t
+Different disciplines, authors, and contexts will use different language to describe same or similar topics.
+
+#+reveal: split
+Let's do a demonstration!
+
+** Beyond
+
+#+attr_reveal: :frag t
+Google doesn't really do Boolean anymore.
+
+#+attr_reveal: :frag t
+Its algorithms are biased and skewed towards sites with high engagement.
+
+#+attr_reveal: :frag t
+This tends to lead people towards more controversial or right-wing sites.
+
+#+reveal: split
+Google Scholar doesn't have a useful search interface, either.
+
+#+attr_reveal: :frag t
+Helpful for seeing citations, certain years, broad searches, and seeing what disciplines are talking about a topic.
+
+#+reveal: split
+Books & Media Worldwide:
+
+#+attr_reveal: :frag (appear)
++ doesn't include articles
++ refined search like the library search box
++ Interlibrary Loan
+
+#+reveal: split
+General Tips:
+
+#+attr_reveal: :frag (appear)
++ mind read: use a variety of synonyms that mean the same thing, and try to guess what language a discipline might use
++ use the External Search options in the Library Search Box to repeat your search in Google Scholar and Books & Media Worldwide
+
+
+* What can I do as a scholar?
+
+Include queer terminology in:
+
+#+attr_reveal: :frag (appear)
++ author-supplied keywords
++ titles
++ abstracts
++ descriptions
+
+* Resources
+
++ [[https://www.digitaltransgenderarchive.net][Digital Transgender Archive]]
++ [[https://gsso.research.cchmc.org/#!/][Gender, Sex, and Sexual Orientation (GSSO) Ontology]]
++ [[https://www.glbthistory.org/digital-collections][GLBT Historical Society Digital Collections]]
++ [[https://histsex.org][HistSex]]
++ [[https://homosaurus.org][Homosaurus]]
++ [[https://www.loc.gov/collections/lgbtq-studies-web-archive/][Library of Congress LGBTQ+ Studies Web Archive]]
++ [[https://queerdigital.com][Queer Digital History Project]]
++ [[http://www.netanelganin.com/projects/QueerLCSH/QueerLCSH.html][Queer LCSH]]
++ [[https://archive.qzap.org][Queer Zine Archive Project (QZAP)]]
++ Your subject librarians!
+
+* Questions?
+
+jay.colbert@unh.edu
