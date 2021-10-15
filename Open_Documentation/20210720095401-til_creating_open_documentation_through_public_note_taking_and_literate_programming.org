@@ -123,6 +123,8 @@ Like with real gardens, our digital gardens are a constant ebb and flow towards 
 All tools are free and open source.
 I have purposefully omitted tools which are not free (like Roam Research) and/or open source (like Obsidian)
 
+https://github.com/MaggieAppleton/digital-gardeners
+
 #+attr_reveal: :frag (appear)
 + Dendron
 + Foam
