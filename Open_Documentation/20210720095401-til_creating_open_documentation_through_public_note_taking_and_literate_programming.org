@@ -12,7 +12,7 @@
 
 # Set up the title slide.
 #+REVEAL_TITLE_SLIDE: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>View online: <a href="%u">%u</a></p>
-#+REVEAL_TALK_URL: https://github.com/jlcolbert/talks/tree/main/OpenDocumentation
+#+REVEAL_TALK_URL: https://jlcolbert.github.io/talks/Open_Documentation
 
 * Who am I?
 #+reveal: split
