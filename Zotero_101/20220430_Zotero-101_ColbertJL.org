@@ -12,7 +12,8 @@
 #+reveal_theme: serif
 #+reveal_trans: none
 
-#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a</h3><p>View online: <a href="%u">%u</a></p><p>This could be the file name in the <code>src</code> attribute of an <code>img</code> element for a QR code: %q
+#+reveal_talk_url: https://jlcolbert.github.io/talks/Zotero_101/20220430_Zotero-101_ColbertJL.html
+#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a</h3><p>View online:</p><p><a href="%u">%u</a></p>
 
 * What is Zotero?
 #+reveal: split
