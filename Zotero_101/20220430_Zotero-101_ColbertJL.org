@@ -1,0 +1,126 @@
+#+title:     Zotero 101
+#+subtitle: Citing Sources in Your Second Brain
+#+author:    Jay Colbert
+#+email:     jaylcolbert@gmail.com
+
+#+options: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+options: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+options: reveal_width:1400 reveal_height:1000
+#+options: toc:1
+#+options: reveal_single_file:t
+#+reveal_margin: 0.1
+#+reveal_theme: serif
+#+reveal_trans: none
+
+#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a</h3><p>View online: <a href="%u">%u</a></p><p>This could be the file name in the <code>src</code> attribute of an <code>img</code> element for a QR code: %q
+
+* What is Zotero?
+#+reveal: split
+Zotero is a *free, open source, easy-to-use* tool to help you
+#+attr_reveal: :frag appear
+*collect*
+#+attr_reveal: :frag appear
+*organize*
+#+attr_reveal: :frag appear
+*cite*
+#+attr_reveal: :frag appear
+and *share* research.
+#+reveal: split
+It stores *bibliographic metadata* about various *information resources*.
+#+reveal: split
+#+attr_reveal: :frag appear
+...Jay, what is metadata?
+#+reveal: split
+#+begin_quote
+Perhaps a more useful, “big picture” way of thinking about metadata is as the sum total of what one can say at a given moment about any information object at any level of aggregation. ---Introduction to Metadata
+#+end_quote
+#+reveal: split
+Bibliographic metadata is what we can say about a resource's
+#+attr_reveal: :frag appear
+title
+#+attr_reveal: :frag appear
+creator/contributor
+#+attr_reveal: :frag appear
+date of creation/publication
+#+attr_reveal: :frag appear
+and basically anything else you might see in a library catalog.
+#+reveal: split
+Zotero can do this for books, articles, movies, YouTube videos, blog posts, podcasts, art, software, emails...
+#+reveal: split
+#+attr_reveal: :frag appear
+*/And it does it automatically./*
+* Why might you need it?
+** Citing sources
+#+reveal: split
+Zotero isn't just for storing references..
+#+attr_reveal: :frag appear
+We want to use them, after all.
+#+reveal: split
+It creates citations and bibliographies of our references
+#+attr_reveal: :frag appear
+sorted and formatted
+#+attr_reveal: :frag appear
+in almost any citation style.
+#+reveal: split
+If you're using Microsoft Word, LibreOffice, or Google Docs, you can have it generate citations as you write.
+
+It will automatically generate and update your bibliography.
+#+attr_reveal: :frag appear
+If you're using LaTeX, Obsidian, or Emacs org-mode, you can use Better BibTeX for a similar workflow.
+#+attr_reveal: :frag appear
+Otherwise, you can right-click or drag references or groups of references to create citations and bibliographies.
+** Zettelkasten
+#+reveal: split
+In /How to Take Smart Notes/, it recommends using Zotero for literature notes.
+#+attr_reveal: :frag appear
+These are not really meant to be our thoughts /about/ a reference.
+#+attr_reveal: :frag appear
+Literature notes are just bibliographic metadata.
+#+reveal: split
+The reference in Zotero /is/ our literature note.
+#+attr_reveal: :frag appear
+But, you can also take brief notes and annotations within that reference.
+#+attr_reveal: :frag appear
+"On page X, it says Y."
+#+reveal: split
+Zotero allows you to create notes for individual references.
+#+attr_reveal: :frag appear
+It also has a  built-in PDF reader where you can highlight and annotate.
+#+reveal: split
+You don't have to do a Zettelkasten to use this feature!
+
+It's nifty no matter what.
+* How do you get it?
+#+reveal: split
+You download the desktop application from zotero.org.
+
+There, you can also download the Zotero Connector for your browser.
+
+(If you use Safari, it will already be installed, and you just have to enable it.)
+#+reveal: split
+For iOS devices, you can find it in the app store.
+#+reveal: split
+For Microsoft Word and LibreOffice, you can install those add-ins within Zotero's preferences.
+
+Google Docs will be automatically enabled if you have the Zotero Connector.
+#+reveal: split
+For the plain-text editors, you will need to download the Better BibTex add-on and the respective editor plugins/packages.
+#+reveal: split
+Optional: Create an account so you can sync your library across devices.
+
+Be mindful of the storage limit for free accounts.
+
+I recommend using the ZotFile plugin and setting it up to rename, move, and link back to your PDFs in cloud storage.
+#+reveal: split
+Or you can pay for more storage.
+They're good people.
+It's worth the money!
+* How do you use it?
+#+reveal: split
+#+attr_reveal: :frag appear
+The easiest way is to use the Zotero Connector.
+#+attr_reveal: :frag appear
+The next easiest way is to use the Magic Wand.
+#+attr_reveal: :frag appear
+But you can always add references manually.
+* Demonstration!

@@ -1,0 +1,58 @@
+#+title:     A-Z Databases List Migration
+#+author:    Jay Colbert
+#+email:     jay.colbert@unh.edu
+#+options: toc:nil num:nil reveal_width:1400 reveal_height:1000 reveal_single_file:t
+#+reveal_title_slide: <h1>%t</h1><h3>%a, Kristin Dhabolt, Lise Russell</h3>
+#+reveal_theme: serif
+#+reveal_extra_css: ./local.css
+
+* Who
+
+#+attr_reveal: :frag (appear)
++ Idea Champion: Jay Colbert
++ Relevant Leader: Jay Colbert
++ Decision Maker: Sarah Theimer
++ Planners: Kristin Dhabolt, Lise Russell
++ Stakeholders: Subject Librarians, LibGuides creators/maintainers, Info Access workers
+
+* What
+
+#+begin_quote
+The Relevant Leader and Planners of this project propose the migration of the UNH Library A-Z Databases list (currently used by UNH Durham and UNH Manchester) from its current location on the UNH Library website to our Springshare LibGuides platform. In addition, we propose that, while instruction faculty and staff have currently controlled and maintained our LibApps system, staff and faculty in the Information Access program maintain the database assets in the new list with input from instruction faculty and staff.
+#+end_quote
+
+#+reveal: split
+
+#+attr_reveal: :frag (appear)
++ Improve the discoverability of and access to our subscription databases and other resources
++ Streamline workflows for adding, removing, and updating database information in our various systems
+
+* Why
+** Strategic Initiative
+Operational Plan 2: Embrace the Library User Experience
+
+Initiative 1: Maximize discovery of and access to information resources
+
+** Precedence
+#+attr_reveal: :frag (appear)
+  - Most academic libraries in the United States use the LibGuides A-Z Database List feature
+  - UNH Law already uses this feature
+
+** User Experience
+#+attr_reveal: :frag (appear)
+  - Patrons had trouble navigating the updated Drupal list
+  - Lost functionality with Drupal update
+  - Analytics show the overwhelming majority of our website searches were database titles
+  - The LibGuides system allows us to mark new, trial, free, open access, etc.
+  - The LibGuides system allows "More Info" until clicked, decluttering the interface
+  - Customizable HTML/CSS
+  - Great customer support!
+
+** Access and Discovery
+#+attr_reveal: :frag (appear)
+  - Integrates with current Research Guides and librarian profiles
+  - Database assets share subject assignments with Research Guides
+  - LibGuides are indexed by our library website's search interface
+
+* How
+** Take it away, Kristin and Lise!
