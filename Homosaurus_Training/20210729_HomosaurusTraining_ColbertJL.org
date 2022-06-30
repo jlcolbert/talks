@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Jay L. Colbert
+# Copyright (C) 2022 Jay L. Colbert
 
 #+options: toc:1 num:nil reveal_width:1400 reveal_height:1000
 #+reveal_theme: serif
@@ -6,7 +6,7 @@
 #+options: reveal_single_file:t
 
 # Set up the title slide.
-#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>University of New Hampshire</p><p>View online: <a href="%u">%u</a></p>
+#+reveal_title_slide: <h1>%t</h1><h2>%s</h2><h3>%a, %A</h3><p>Longy School of Music of Bard College</p><p>View online: <a href="%u">%u</a></p>
 
 # Configure individual pieces of information.
 #+title: Cataloging with the Homosaurus
@@ -22,7 +22,7 @@
 Jay L. Colbert (he/him)
 
 #+attr_reveal: :frag roll-in
-Metadata & Discovery Strategy Librarian, University of New Hampshire
+Library Director, Longy School of Music of Bard College
 
 #+attr_reveal: :frag roll-in
 Homosaurus Editorial Board since June 2020
@@ -36,13 +36,16 @@ I am also white, queer, and trans.
 The Homosaurus is an international linked data vocabulary of LGBTQ terms that supports improved access to LGBTQ resources within cultural institutions.
 Designed to serve as a companion to broad subject term vocabularies, the Homosaurus is a robust and cutting-edge vocabulary of LGBTQ-specific terminology that enhances the discoverability of LGBTQ resources.
 #+end_quote
+
 ** Timeline
 #+attr_reveal: :frag (roll-in)
 + 1997, version 0: thesaurus for IHLIA LGBT Heritage collections
 + 2013, version 1: Jack van der Wel & Ellen Greenblatt made it more inclusive with a hierarchical structure
 + 2015: K.J. Rawson of the Digital Transgender Archive worked with van der Wel to transform version 1 into an online linked data vocabulary
 + 2016: Editorial Board established, and scope narrowed to LGBTQ-specific terms
-+ 2019, version 2: Where we are now!
++ 2019: version 2
++ 2022: version 3.2. Where we are now!
+
 * When
 ** Sex vs Gender vs Orientation
 #+reveal: split
@@ -56,28 +59,19 @@ Designed to serve as a companion to broad subject term vocabularies, the Homosau
 
 #+reveal: split
 Sex, gender, and orientation are often discussed as separate facets of a person's identity and experience.
-** LGBTQ vs Queer
+
+** LGBTQ+ vs Queer
 #+reveal: split
-3 Formats:
+2 Formats:
 #+attr_reveal: :frag (roll-in)
-1. Term (LGBTQ)
-2. LGBTQ term
-3. Queer term
+1. LGBTQ+ term
+2. Queer term
 
 #+reveal: split
-Use /Term (LGBTQ)/ when you're using LGBTQ as an umbrella term.
-
-#+reveal: split
-Use /LGBTQ term/ as a narrower term, or if /Term (LGBTQ)/ is not available.
-
-(There are inconsistencies!)
+Use /LGBTQ+ term/ as an umbrella term.
 
 #+reveal: split
 Use /Queer term/ to refer to the specific identity /queer/.
-
-#+attr_reveal: :frag roll-inc
-Sometimes, there won't be specific narrower identity terms;
-often, /LGBTQ term/ will be the narrowest.
 
 #+reveal: split
 [[file:images/Buddhists_LGBTQ.png]]
@@ -101,21 +95,17 @@ They are important aspects of queer culture and history.
 And the version of the term in other vocabularies might be structured differently or excluded entirely.
 
 #+attr_reveal: :frag roll-in
-Homosaurus has /Bears/ and /Otters/, but LoC has /Bears (Gay culture)/ with /Otters (Gay culture)/ as a *variant term*.
+Homosaurus has /Bears (Gay culture)/ and /Otters (Gay culture)/, but LoC has /Bears (Gay culture)/ with /Otters (Gay culture)/ as a *variant term*.
 
 ** Outdated or Derogatory Terms
 #+reveal: split
-/LGBTQ historical terms/:
+/LGBTQ+ historical terms/:
 
 #+begin_quote
-Historical terms for LGBTQ people, identities, and practices that are now considered outdated and/or offensive
+Historical terms for LGBTQ+ people, identities, and practices that are now considered outdated and/or offensive
 #+end_quote
 
-#+reveal: split
-[[file:images/LGBTQ_historical-terms-01.png]]
-
-#+reveal: split
-[[file:images/LGBTQ_historical-terms-02.png]]
+https://homosaurus.org/v3/homoit0000878
 
 #+reveal: split
 /Slurs/:
@@ -182,11 +172,11 @@ We are changing that.
 Resources:
 
 #+attr_reveal: :frag (roll-in)
-+ Nonbinary Wiki: =https://nonbinary.wiki/wiki/Main_Page=
-+ Asexuality Visibility Network Wiki: =http://wiki.asexuality.org/Main_Page=
-+ LGBT Wikia: =https://lgbta.wikia.org/wiki/LGBTA_Wiki=
-+ Transgender Language Primer: =https://www.translanguageprimer.org/primer=
-+ A BDSM/Kink Glossary (note: this site may contain material that is considered "not safe for work"): =https://jamirodman.com/bdsm-kink-dictionary-terminology-vocabulary/=
++ Nonbinary Wiki: https://nonbinary.wiki/wiki/Main_Page
++ Asexuality Visibility Network Wiki: http://wiki.asexuality.org/Main_Page
++ LGBT Wikia: https://lgbta.wikia.org/wiki/LGBTA_Wiki
++ Transgender Language Primer: https://www.translanguageprimer.org/primer
++ A BDSM/Kink Glossary (note: this site may contain material that is considered "not safe for work"): https://jamirodman.com/bdsm-kink-dictionary-terminology-vocabulary/
 
 ** Subdivisions
 #+reveal: split
@@ -206,9 +196,7 @@ Instead:
       655 _7 $a Lesbian fiction. $2 homoit
 
 ** Suggest a term!
-=https://homosaurus.org/contact=
-* Questions?
-jay.colbert@unh.edu
+https://homosaurus.org/contact
 
-* Resources
-Zotero Library: =https://www.zotero.org/jay.colbert/collections/7MMSXINA=
+* Questions?
+jcolbert@longy.edu
